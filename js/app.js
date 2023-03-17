@@ -543,15 +543,14 @@ $(function() {
 
 function printArray() {
 	var msg = 'Submit new regions here:\n'
-	+ ' '
-	+ '\n\n';
-	msg += '```json\n\t{\n\t\t"type": "<Territories/Restaurants/Medical/Legal/Automotive/Netural> pilih salah satu",'
-	+ '\n\t\t"title": "<Contoh : Emerald, UwU Cafe, Rebellion Gang, Vagos.>",'
+	+ 'Add Discord : Nongskuy#8178\n\n'
+	msg += '```json\n\t{\n\t\t"type": "<Territories/Restaurants/Medical/Legal/Automotive/Netural>",'
+	+ '\n\t\t"title": "<Title Here>",'
 	+ '\n\t\t"notes": "<Background story>",'
-	+ '\n\t\t"wiki_link": "<link SOI Fandom jika sudah membuat fandom>>",'
+	+ '\n\t\t"wiki_link": "<link SOI Fandom jika sudah membuat fandom Jika punya>",'
 	+ '\n\t\t"order": 0,'
-	+ '\n\t\t"strokecolor": "FF0000<masukkan warna kalian disini untuk pinggiran wiliyah>",'
-	+ '\n\t\t"fillcolor": "FF0000<massukkan warna kalian disini untuk warna wilayah>",'
+	+ '\n\t\t"strokecolor": "FF0000",'
+	+ '\n\t\t"fillcolor": "FF0000",'
 	+ '\n\t\t"latlngarray": [\n';
 	var i;
 	for (i = 0; i < window.locs.length; i++) {
