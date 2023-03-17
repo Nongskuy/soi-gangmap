@@ -2330,6 +2330,12 @@
 			{"lat": -75.649, "lng": -5.009},
 			{"lat": -75.490, "lng": -5.793},
 			{"lat": -75.276, "lng": -6.803}
+		],
+		"images": [
+			{
+				"headline": "",
+				"url": "https://i.imgur.com/uPlWZss.png"
+			}
 		]
 	},
 	{
@@ -2410,6 +2416,12 @@
 			{"lat": -59.598, "lng": 11.552},
 			{"lat": -59.759, "lng": 9.845},
 			{"lat": -59.958, "lng": 8.054}
+		],
+		"images": [
+			{
+				"headline": "",
+				"url": "https://i.imgur.com/WuvpmkU.png"
+			}
 		]
 	},
 	{
@@ -2430,6 +2442,63 @@
 			{"lat": -73.799, "lng": 0.007},
 			{"lat": -73.499, "lng": -1.268},
 			{"lat": -73.445, "lng": -1.531}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Mayhem MC",
+		"notes": "Coming Soon",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -56.302, "lng": -45.665},
+			{"lat": -57.666, "lng": -49.862},
+			{"lat": -58.409, "lng": -52.552},
+			{"lat": -57.752, "lng": -53.277},
+			{"lat": -56.820, "lng": -54.365},
+			{"lat": -55.864, "lng": -55.551},
+			{"lat": -54.871, "lng": -57.035},
+			{"lat": -54.630, "lng": -56.397},
+			{"lat": -54.420, "lng": -55.650},
+			{"lat": -54.362, "lng": -55.288},
+			{"lat": -54.266, "lng": -54.738},
+			{"lat": -54.234, "lng": -53.969},
+			{"lat": -54.215, "lng": -53.684},
+			{"lat": -54.228, "lng": -53.409},
+			{"lat": -54.234, "lng": -53.178},
+			{"lat": -54.260, "lng": -52.717},
+			{"lat": -54.369, "lng": -52.091},
+			{"lat": -54.528, "lng": -51.497},
+			{"lat": -54.757, "lng": -50.849}
+		],
+		"images": [
+			{
+				"headline": "",
+				"url": "https://i.imgur.com/uPlWZss.png"
+			}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Sons Of Death MC",
+		"notes": "Coming Soon",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -63.131, "lng": -59.222},
+			{"lat": -64.072, "lng": -56.400},
+			{"lat": -63.025, "lng": -53.214},
+			{"lat": -61.856, "lng": -54.895}
+		],
+		"images": [
+			{
+				"headline": "",
+				"url": "https://i.imgur.com/9QO4nJI.png"
+			}
 		]
 	},
 
