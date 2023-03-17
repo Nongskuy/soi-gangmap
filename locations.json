@@ -2250,7 +2250,7 @@
 	{
 		"type": "Territories",
 		"title": "Rebellion Gang",
-		"notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisl, mollis eu eleifend vitae, interdum id neque. Ut consectetur risus vel urna interdum, non sagittis lorem tempus. Maecenas sit amet eros lorem. Vestibulum leo purus, ultricies eu cursus et, laoreet at mauris. Morbi ut vehicula leo. Pellentesque eget nunc nec felis scelerisque blandit a ut quam. Pellentesque sit amet rhoncus massa. Curabitur vitae dolor maximus, sollicitudin libero eu, efficitur sapien. Donec in leo id elit luctus rutrum ut imperdiet elit. Mauris quis erat vel orci ultrices egestas eu a nunc. Aenean id lectus at tortor maximus aliquam. Morbi ornare metus ac ornare blandit. Nullam et diam faucibus, feugiat erat at, commodo ante.",
+		"notes": "Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "7d26cd",
@@ -2283,13 +2283,13 @@
 		"video": {
 			"yt_id": "sIsEVrmAWVE",
 			"yt_user_display": "Dikyanz",
-			"yt_user_link": "user/@dikyanz"
+			"yt_user_link": "@dikyanz"
 		}
 	},
 	{
 		"type": "Territories",
 		"title": "Vagos",
-		"notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisl, mollis eu eleifend vitae, interdum id neque. Ut consectetur risus vel urna interdum, non sagittis lorem tempus. Maecenas sit amet eros lorem. Vestibulum leo purus, ultricies eu cursus et, laoreet at mauris. Morbi ut vehicula leo. Pellentesque eget nunc nec felis scelerisque blandit a ut quam. Pellentesque sit amet rhoncus massa. Curabitur vitae dolor maximus, sollicitudin libero eu, efficitur sapien. Donec in leo id elit luctus rutrum ut imperdiet elit. Mauris quis erat vel orci ultrices egestas eu a nunc. Aenean id lectus at tortor maximus aliquam. Morbi ornare metus ac ornare blandit. Nullam et diam faucibus, feugiat erat at, commodo ante.",
+		"notes": "Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "fff33f",
@@ -2335,7 +2335,7 @@
 	{
 		"type": "Territories",
 		"title": "Hooligans",
-		"notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisl, mollis eu eleifend vitae, interdum id neque. Ut consectetur risus vel urna interdum, non sagittis lorem tempus. Maecenas sit amet eros lorem. Vestibulum leo purus, ultricies eu cursus et, laoreet at mauris. Morbi ut vehicula leo. Pellentesque eget nunc nec felis scelerisque blandit a ut quam. Pellentesque sit amet rhoncus massa. Curabitur vitae dolor maximus, sollicitudin libero eu, efficitur sapien. Donec in leo id elit luctus rutrum ut imperdiet elit. Mauris quis erat vel orci ultrices egestas eu a nunc. Aenean id lectus at tortor maximus aliquam. Morbi ornare metus ac ornare blandit. Nullam et diam faucibus, feugiat erat at, commodo ante.",
+		"notes": "Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00FF04",
@@ -2352,13 +2352,13 @@
 		"video": {
 			"yt_id": "XJqW7RpnG-I",
 			"yt_user_display": "Dikyanz",
-			"yt_user_link": "user/@dikyanz"
+			"yt_user_link": "@dikyanz"
 		}
 	},
 	{
 		"type": "Territories",
 		"title": "Rude Boys",
-		"notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisl, mollis eu eleifend vitae, interdum id neque. Ut consectetur risus vel urna interdum, non sagittis lorem tempus. Maecenas sit amet eros lorem. Vestibulum leo purus, ultricies eu cursus et, laoreet at mauris. Morbi ut vehicula leo. Pellentesque eget nunc nec felis scelerisque blandit a ut quam. Pellentesque sit amet rhoncus massa. Curabitur vitae dolor maximus, sollicitudin libero eu, efficitur sapien. Donec in leo id elit luctus rutrum ut imperdiet elit. Mauris quis erat vel orci ultrices egestas eu a nunc. Aenean id lectus at tortor maximus aliquam. Morbi ornare metus ac ornare blandit. Nullam et diam faucibus, feugiat erat at, commodo ante.",
+		"notes": "Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "545454",
@@ -2410,6 +2410,26 @@
 			{"lat": -59.598, "lng": 11.552},
 			{"lat": -59.759, "lng": 9.845},
 			{"lat": -59.958, "lng": 8.054}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Baby Alien",
+		"notes": "Coming Soon",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.210, "lng": -3.849},
+			{"lat": -74.273, "lng": -3.586},
+			{"lat": -74.763, "lng": -1.399},
+			{"lat": -74.562, "lng": -0.773},
+			{"lat": -74.392, "lng": -0.927},
+			{"lat": -73.930, "lng": -0.345},
+			{"lat": -73.799, "lng": 0.007},
+			{"lat": -73.499, "lng": -1.268},
+			{"lat": -73.445, "lng": -1.531}
 		]
 	},
 
@@ -2481,7 +2501,7 @@
 	{
 		"type": "Medical",
 		"title": "Pillbox Medical Center",
-		"notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisl, mollis eu eleifend vitae, interdum id neque. Ut consectetur risus vel urna interdum, non sagittis lorem tempus. Maecenas sit amet eros lorem. Vestibulum leo purus, ultricies eu cursus et, laoreet at mauris. Morbi ut vehicula leo. Pellentesque eget nunc nec felis scelerisque blandit a ut quam. Pellentesque sit amet rhoncus massa. Curabitur vitae dolor maximus, sollicitudin libero eu, efficitur sapien. Donec in leo id elit luctus rutrum ut imperdiet elit. Mauris quis erat vel orci ultrices egestas eu a nunc. Aenean id lectus at tortor maximus aliquam. Morbi ornare metus ac ornare blandit. Nullam et diam faucibus, feugiat erat at, commodo ante.",
+		"notes": "Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF005A",
@@ -2500,7 +2520,7 @@
 	{
 		"type": "Restaurants",
 		"title": "Emerald",
-		"notes": "Emerald is a restaurant created and owned by .",
+		"notes": "Emerald is a restaurant owned by .",
 		"wiki_link": " ",
 		"order": 0,
 		"strokecolor": "005B06",
@@ -2523,7 +2543,7 @@
 	{
 		"type": "Restaurants",
 		"title": "UWU Caf\u00e9",
-		"notes": "UwU Caf\u00e9 is a restaurant created and owned by .",
+		"notes": "UwU Caf\u00e9 is a restaurant owned by .",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "E759E1",
