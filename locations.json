@@ -2426,11 +2426,11 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Baby Alien",
+		"title": "Baby Aliens",
 		"notes": "Coming Soon",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FFFFFF",
+		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -74.210, "lng": -3.849},
@@ -2451,7 +2451,7 @@
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "003939",
-		"fillcolor": "FFFFFF",
+		"fillcolor": "000000",
 		"latlngarray": [
 			{"lat": -56.302, "lng": -45.665},
 			{"lat": -57.666, "lng": -49.862},
@@ -2487,7 +2487,7 @@
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
-		"fillcolor": "FFFFFF",
+		"fillcolor": "000000",
 		"latlngarray": [
 			{"lat": -63.131, "lng": -59.222},
 			{"lat": -64.072, "lng": -56.400},
