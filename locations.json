@@ -2557,6 +2557,21 @@
 			}
 		]
 	},
+	{
+		"type": "Territories",
+		"title": "Aztecas",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00a2ff",
+		"fillcolor": "00a2ff",
+		"latlngarray": [
+			{"lat": 40.416, "lng": 26.704},
+			{"lat": 39.422, "lng": 23.101},
+			{"lat": 37.522, "lng": 23.903},
+			{"lat": 38.577, "lng": 27.572}
+		]
+	},
 
 	{
 		"type": "Legal",
