@@ -2247,10 +2247,11 @@
 			{"lat": 5.784, "lng": 30.489}
 		]
 	},
+
 	{
 		"type": "Territories",
 		"title": "Rebellion Gang",
-		"notes": "Coming Soon",
+		"notes": "Background Story Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "7d26cd",
@@ -2289,7 +2290,7 @@
 	{
 		"type": "Territories",
 		"title": "Vagos",
-		"notes": "Coming Soon",
+		"notes": "Background Story Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "fff33f",
@@ -2341,7 +2342,7 @@
 	{
 		"type": "Territories",
 		"title": "Hooligans",
-		"notes": "Coming Soon",
+		"notes": "Background Story Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00FF04",
@@ -2364,7 +2365,7 @@
 	{
 		"type": "Territories",
 		"title": "Rude Boys",
-		"notes": "Coming Soon",
+		"notes": "Background Story Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
@@ -2424,10 +2425,34 @@
 			}
 		]
 	},
+		{
+		"type": "Territories",
+		"title": "Rude Boys",
+		"notes": "Background Story Coming Soon",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "FFFFFF",
+		"latlngarray": [
+			{"lat": -68.861, "lng": 7.817},
+			{"lat": -68.987, "lng": 7.905},
+			{"lat": -69.563, "lng": 7.883},
+			{"lat": -69.700, "lng": 7.883},
+			{"lat": -69.731, "lng": 5.038},
+			{"lat": -69.015, "lng": 5.027},
+			{"lat": -68.885, "lng": 5.016}
+		],
+				"images": [
+			{
+				"headline": "",
+				"url": "https://i.imgur.com/WuvpmkU.png"
+			}
+		]
+	},
 	{
 		"type": "Territories",
 		"title": "Baby Aliens",
-		"notes": "Coming Soon",
+		"notes": "Background Story Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2453,7 +2478,7 @@
 	{
 		"type": "Territories",
 		"title": "Mayhem MC",
-		"notes": "Coming Soon",
+		"notes": "Background Story Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "003939",
@@ -2489,7 +2514,7 @@
 	{
 		"type": "Territories",
 		"title": "Sons Of Death MC",
-		"notes": "Coming Soon",
+		"notes": "Background Story Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2510,7 +2535,7 @@
 	{
 		"type": "Territories",
 		"title": "The Mobster",
-		"notes": "Coming Soon",
+		"notes": "Background Story Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "0000FF",
@@ -2560,7 +2585,7 @@
 	{
 		"type": "Territories",
 		"title": "Aztecas",
-		"notes": "Coming Soon",
+		"notes": "Background Story Coming Soon",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00a2ff",
