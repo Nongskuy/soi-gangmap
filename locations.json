@@ -2285,7 +2285,13 @@
 			"yt_id": "sIsEVrmAWVE",
 			"yt_user_display": "Dikyanz",
 			"yt_user_link": "@dikyanz"
-		}
+		},
+		"images": [
+			{
+				"headline": "",
+				"url": "https://i.imgur.com/RwoNg7O.png"
+			}
+		]
 	},
 	{
 		"type": "Territories",
@@ -2428,7 +2434,7 @@
 		{
 		"type": "Territories",
 		"title": "Rude Boys Skatepark",
-		"notes": "Background Story Coming Soon",
+		"notes": "Skatepark diklaim oleh Rude Boys. Confirmed by Rama Trizansyah (12/03/23)",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
