@@ -543,7 +543,7 @@ $(function() {
 
 function printArray() {
 	var msg = 'Submit new regions here:\n'
-	+ 'Jika ingin mengupdate atau menambah territory silahkan direct message ke discord di bawah ini\n'
+	+ 'Jika ingin mengupdate atau menambah territory silahkan direct messages ke discord di bawah ini\n'
 	+ 'Add Discord : Nongskuy#8178\n\n'
 	msg += '```json\n\t{\n\t\t"type": "<Territories/Restaurants/Medical/Legal/Automotive/Netural>",'
 	+ '\n\t\t"title": "<Title Here>",'
