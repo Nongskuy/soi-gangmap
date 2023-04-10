@@ -111,7 +111,7 @@ $(function() {
 			name: 'Legal',
 			icon: 'radar/radar_police_station.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 	   },
 		/*
 		{
