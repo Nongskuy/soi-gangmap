@@ -271,27 +271,39 @@
 	{
 		"type": "Territories",
 		"title": "Sons Of Death MC",
-		"notes": "Background Story Coming Soon",
-		"wiki_link": "",
+		"notes": "Sons Of Death Motorcycle Club (SOD MC) adalah klub motor penjahat yang bukan hanya pecinta motor klasik saja dan memiliki logo ular yang melilit mesin motor yang mengartikan simbol panjang umur, kekekalan dan keabadian. Ular menjadi simbol dari yang tidak pernah mati dan selalu berinkarnasi dalam konsep Hinduisme. Ular yang tidak memejamkan mata menjadi simbol kebijaksanaan, licik dan sering menipu. Serta hanya cuman fokus kedepan tapi akan menyerang ketika merasa terancam atau diserang dan arti dari logo 1% adalah penyebab kerusuhan hanyalah satu persen. SOD MC merupakan klub motor penjahat yang beroperasi di Bay City Avenue, Del Perro, Los Santos, dan mengklaim Bay City Avenue sebagai wilayah mereka dan Perrera Beach Motel sebagai markas mereka.",
+		"wiki_link": "https://soi.fandom.com/id/wiki/Sons_Of_Death#SOD_Territory",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "000000",
 		"latlngarray": [
-            {"lat": -60.980, "lng": -52.573},
-            {"lat": -62.084, "lng": -50.545},
-            {"lat": -63.072, "lng": -48.877},
-            {"lat": -64.394, "lng": -46.330},
-            {"lat": -65.310, "lng": -48.906},
-            {"lat": -66.175, "lng": -52.158},
-            {"lat": -67.043, "lng": -51.730},
-            {"lat": -67.872, "lng": -51.048},
-            {"lat": -68.477, "lng": -54.443},
-            {"lat": -69.865, "lng": -60.114},
-            {"lat": -71.451, "lng": -66.363},
-            {"lat": -68.491, "lng": -74.690},
-            {"lat": -63.123, "lng": -59.521},
-            {"lat": -62.428, "lng": -57.240},
-            {"lat": -61.699, "lng": -54.850}
+			{"lat": -60.901, "lng": -52.072},
+			{"lat": -61.972, "lng": -50.249},
+			{"lat": -62.116, "lng": -49.963},
+			{"lat": -64.118, "lng": -46.154},
+			{"lat": -64.352, "lng": -46.732},
+			{"lat": -65.167, "lng": -49.017},
+			{"lat": -65.250, "lng": -49.346},
+			{"lat": -65.985, "lng": -51.983},
+			{"lat": -66.128, "lng": -52.686},
+			{"lat": -66.967, "lng": -52.159},
+			{"lat": -66.984, "lng": -53.961},
+			{"lat": -67.173, "lng": -54.400},
+			{"lat": -67.498, "lng": -55.603},
+			{"lat": -70.859, "lng": -68.143},
+			{"lat": -64.407, "lng": -85.673},
+			{"lat": -59.107, "lng": -74.928},
+			{"lat": -59.076, "lng": -73.470},
+			{"lat": -59.155, "lng": -73.030},
+			{"lat": -61.639, "lng": -65.468},
+			{"lat": -61.650, "lng": -65.161},
+			{"lat": -61.514, "lng": -64.787},
+			{"lat": -61.305, "lng": -64.473},
+			{"lat": -63.143, "lng": -59.693},
+			{"lat": -63.109, "lng": -59.243},
+			{"lat": -62.461, "lng": -57.089},
+			{"lat": -61.736, "lng": -54.584},
+			{"lat": -61.075, "lng": -52.816}
 		],
 		"images": [
 			{
@@ -510,9 +522,45 @@
 			{"lat": 38.151, "lng": -17.887}
 		]
 	},
-
-
 	{
+		"type": "Territories",
+		"title": "No Mercy",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -57.128, "lng": -17.815},
+			{"lat": -59.168, "lng": -19.100},
+			{"lat": -57.771, "lng": -14.497},
+			{"lat": -59.088, "lng": -15.607},
+			{"lat": -59.618, "lng": -15.938}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Silent 666",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.231, "lng": -4.715},
+			{"lat": -73.106, "lng": -9.557},
+			{"lat": -73.639, "lng": -7.301},
+			{"lat": -73.755, "lng": -6.779},
+			{"lat": -74.283, "lng": -4.486},
+			{"lat": -75.005, "lng": -6.810},
+			{"lat": -74.952, "lng": -7.033},
+			{"lat": -74.415, "lng": -9.474},
+			{"lat": -74.300, "lng": -9.967},
+			{"lat": -73.648, "lng": -12.812}
+		]
+	},
+	{
+	
 		"type": "Legal",
 		"title": "Mission Row PD",
 		"notes": "",
