@@ -523,43 +523,6 @@
 		]
 	},
 	{
-		"type": "Territories",
-		"title": "No Mercy",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -57.128, "lng": -17.815},
-			{"lat": -59.168, "lng": -19.100},
-			{"lat": -57.771, "lng": -14.497},
-			{"lat": -59.088, "lng": -15.607},
-			{"lat": -59.618, "lng": -15.938}
-		]
-	},
-	{
-		"type": "Territories",
-		"title": "Silent 666",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -74.231, "lng": -4.715},
-			{"lat": -73.106, "lng": -9.557},
-			{"lat": -73.639, "lng": -7.301},
-			{"lat": -73.755, "lng": -6.779},
-			{"lat": -74.283, "lng": -4.486},
-			{"lat": -75.005, "lng": -6.810},
-			{"lat": -74.952, "lng": -7.033},
-			{"lat": -74.415, "lng": -9.474},
-			{"lat": -74.300, "lng": -9.967},
-			{"lat": -73.648, "lng": -12.812}
-		]
-	},
-	{
 	
 		"type": "Legal",
 		"title": "Mission Row PD",
