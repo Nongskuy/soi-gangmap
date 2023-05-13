@@ -671,6 +671,24 @@
 			}
 		]
 	},
+		{
+		"type": "Territories",
+		"title": "No Mercy",
+		"notes": "Coming Soon",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FFFFFF",
+		"latlngarray": [
+			{"lat": -57.101, "lng": -17.814},
+			{"lat": -57.763, "lng": -14.512},
+			{"lat": -59.071, "lng": -15.595},
+			{"lat": -59.692, "lng": -15.964},
+			{"lat": -59.245, "lng": -19.150},
+			{"lat": -57.759, "lng": -18.238},
+			{"lat": -57.429, "lng": -18.019}
+		]
+	},
 	{
 	
 		"type": "Legal",
