@@ -545,7 +545,7 @@
 		"images": [
 			{
 				"headline": "",
-				"url": "https://imgur.com/lyPzyKX"
+				"url": "https://i.imgur.com/ASkwNkw.png"
 			}
 		]
 	},
@@ -611,11 +611,66 @@
 		"images": [
 			{
 				"headline": "",
-				"url": "https://imgur.com/lyPzyKX"
+				"url": "https://i.imgur.com/ASkwNkw.png"
 			}
 		]
 	},
-
+	{
+		"type": "Territories",
+		"title": "Sinister Souls MC",
+		"notes": "Coming Soon",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "2E295F",
+		"fillcolor": "2E295F",
+		"latlngarray": [
+			{"lat": 19.583, "lng": 55.797},
+			{"lat": 16.462, "lng": 58.049},
+			{"lat": 15.479, "lng": 58.555},
+			{"lat": 10.525, "lng": 60.352},
+			{"lat": 9.105, "lng": 60.486},
+			{"lat": 8.378, "lng": 60.475},
+			{"lat": 7.028, "lng": 60.398},
+			{"lat": 5.864, "lng": 60.214},
+			{"lat": -0.491, "lng": 58.724},
+			{"lat": -6.146, "lng": 58.470},
+			{"lat": -18.169, "lng": 58.544},
+			{"lat": -19.106, "lng": 58.471},
+			{"lat": -20.141, "lng": 58.317},
+			{"lat": -20.378, "lng": 58.284},
+			{"lat": -22.342, "lng": 57.647},
+			{"lat": -23.882, "lng": 56.882},
+			{"lat": -25.440, "lng": 55.673},
+			{"lat": -26.116, "lng": 54.623},
+			{"lat": -26.951, "lng": 53.480},
+			{"lat": -27.108, "lng": 53.151},
+			{"lat": -27.176, "lng": 52.854},
+			{"lat": -27.157, "lng": 52.513},
+			{"lat": -27.118, "lng": 52.283},
+			{"lat": -27.020, "lng": 51.997},
+			{"lat": -26.844, "lng": 51.744},
+			{"lat": -26.352, "lng": 51.239},
+			{"lat": -23.253, "lng": 47.302},
+			{"lat": -18.362, "lng": 44.316},
+			{"lat": -16.636, "lng": 43.582},
+			{"lat": -12.196, "lng": 42.102},
+			{"lat": -6.639, "lng": 40.652},
+			{"lat": -2.227, "lng": 39.793},
+			{"lat": 0.876, "lng": 39.674},
+			{"lat": 3.920, "lng": 40.112},
+			{"lat": 7.160, "lng": 41.148},
+			{"lat": 8.149, "lng": 41.688},
+			{"lat": 9.517, "lng": 42.545},
+			{"lat": 11.095, "lng": 43.819},
+			{"lat": 16.534, "lng": 49.954}
+		],
+		"images": [
+			{
+				"headline": "",
+				"url": "https://i.imgur.com/otZu9au.png"
+			}
+		]
+	},
 	{
 	
 		"type": "Legal",
